@@ -2,8 +2,6 @@
 not a hack but a random email password
 
 How to use get :
-
-  pkg install python
   
   pkg install git
 
@@ -13,7 +11,9 @@ How to use :
 
   cd GmailBrute
 
-  chmod +x GBrute.py
+  chmod +x GBrute.py 
+
+  sh Install.sh
 
   python2 GBrute.py
 
