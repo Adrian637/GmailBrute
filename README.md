@@ -11,11 +11,11 @@ How to use :
 
   cd GmailBrute
 
-  chmod +x GBrute.py 
+  chmod +x gmail.py 
 
   sh Install.sh
 
-  python2 GBrute.py
+  python2 gmail.py
 
 + Enter Email and Password List File ‘︿’
 
